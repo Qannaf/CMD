@@ -64,7 +64,7 @@ setx MyVariable_DIR "C:\myFolder"         to show message
             or
 set MyVariable_DIR "C:\myFolder"
 
-setx Path "%MyVariable_DIR%\bin"          to add variable to Path 
+setx Path "%Path%; %MyVariable_DIR%\bin"       to add variable to Path 
 ```
 
 
@@ -72,3 +72,4 @@ setx Path "%MyVariable_DIR%\bin"          to add variable to Path
 ````
 exit
 ````
+
