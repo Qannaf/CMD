@@ -13,7 +13,7 @@ exit        to close the command prompt
 
 * Create file
 ````
-mkdire newfile
+mkdir newfile
 ````
 * Create file and write 
 ````
