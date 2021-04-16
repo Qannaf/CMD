@@ -78,3 +78,8 @@ exit
 ```
 setx Path "%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;C:\opencv-4.5.1\build\x64\vc15\bin;C:\Program Files\Git\bin;C:\Program Files\Git\cmd;C:\Program Files\PCL 1.11.1\bin;C:\Program Files\OpenNI2\Redist;%PCL_ROOT%\bin;%PCL_ROOT%\3rdParty\FLANN\bin;%PCL_ROOT%\3rdParty\Qhull\bin;%OPENNI2_REDIST64%;C:\Program Files\OpenNI2\Tools;%PCL_ROOT%\3rdParty\Boost\lib;%USERPROFILE%\.dotnet\tools;C:\Utilisateurs\qannaf.as\AppData\Local\Programs\Microsoft VS Code\bin;%PCL_ROOT%\3rdParty\VTK\bin;%FLANN_ROOT%\bin;C:\Program Files\VTK\bin;"
 ```
+
+## Delete folder
+```
+rmdir nameFolder        or          rm nameFolder           or          del nameFolder
+```
