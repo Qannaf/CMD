@@ -1,3 +1,6 @@
+<!-- nbr of cpu   grep -c ^processor /proc/cpuinfo
+    
+    make -j 8 -->
 <p align="center">
   <img width="197" height="197" src="https://icon-library.com/images/command-line-icon/command-line-icon-16.jpg">
 </p>
